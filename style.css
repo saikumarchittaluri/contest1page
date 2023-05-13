@@ -1,0 +1,33 @@
+.container{
+    margin-left: 20px;
+}
+.top{
+    font-family:'Inter';
+    border: 2px solid black;
+    padding: 20px;
+}
+.top a{
+    color: black;  
+}
+.hed1{
+    text-decoration: underline;
+    text-underline-offset: 8px;
+}
+.hed2{
+    text-decoration: underline;
+    text-underline-offset: 8px;
+}
+.images{
+    font-family:'Inter';
+}
+.images img{
+    width: 500px;
+    height: 400px;
+}
+.images a{
+    color: black;
+}
+.hed3{
+    text-decoration: underline;
+    text-underline-offset: 8px;
+}
